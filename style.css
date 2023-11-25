@@ -1,0 +1,12 @@
+body{
+    display : inline ;
+    justify-content: center;
+    margin-right: 200px;
+    text-decoration: none;
+    color: crimson;
+    
+    align-items: center;
+}
+lists mylist2{
+    display: flex;
+}
